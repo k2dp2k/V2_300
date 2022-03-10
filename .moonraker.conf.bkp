@@ -3,6 +3,7 @@ host: 0.0.0.0
 port: 7125
 enable_debug_logging: false
 config_path: /home/pi/klipper_config
+log_path: /home/pi/klipper_logs
 max_upload_size: 1024
 database_path: ~/.moonraker_database
 temperature_store_size: 1200
